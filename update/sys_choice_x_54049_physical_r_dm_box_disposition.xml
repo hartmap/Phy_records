@@ -13,7 +13,6 @@
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-06-13 17:04:29</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>17dec72fdb6213007c1372ffbf9619da</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
@@ -32,7 +31,6 @@
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-06-13 17:04:29</sys_created_on>
             <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>d3dec72fdb6213007c1372ffbf9619db</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
@@ -46,7 +44,7 @@
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-06-13 17:02:52</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>637e476fdb6213007c1372ffbf9619e4</sys_id>
+            <sys_id>d1574a304f0fd300f2a00195f110c70f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>disposition</sys_name>
             <sys_package display_value="Physical Records" source="x_54049_physical_r">10178babdb2213007c1372ffbf96190f</sys_package>

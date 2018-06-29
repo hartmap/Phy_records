@@ -2,7 +2,7 @@
 <record_update sys_domain="global" table="sys_ui_policy">
     <sys_ui_policy action="INSERT_OR_UPDATE">
         <active>true</active>
-        <conditions table="x_54049_physical_r_dm_box">location!=cd8313e3dba213007c1372ffbf96192f^EQ<item display_table="x_54049_physical_r_dm_location" display_value="Onsite" endquery="false" field="location" goto="false" newquery="false" operator="!=" or="false" value="cd8313e3dba213007c1372ffbf96192f"/>
+        <conditions table="x_54049_physical_r_dm_box">location!=cd8313e3dba213007c1372ffbf96192f^EQ<item endquery="false" field="location" goto="false" newquery="false" operator="!=" or="false" value="cd8313e3dba213007c1372ffbf96192f"/>
             <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
         </conditions>
         <description/>
@@ -27,7 +27,6 @@
         <sys_created_on>2018-06-13 17:26:39</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>c1d357e3dba213007c1372ffbf9619a5</sys_id>
         <sys_mod_count>4</sys_mod_count>
         <sys_name>Location not Onsite</sys_name>

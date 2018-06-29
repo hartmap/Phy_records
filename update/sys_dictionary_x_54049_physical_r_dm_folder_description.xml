@@ -50,7 +50,7 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-06-13 17:09:52</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>0210d3efdb6213007c1372ffbf96199f</sys_id>
+        <sys_id>d647c6304f0fd300f2a00195f110c71a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Description</sys_name>
         <sys_package display_value="Physical Records" source="x_54049_physical_r">10178babdb2213007c1372ffbf96190f</sys_package>
@@ -58,8 +58,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Physical Records">10178babdb2213007c1372ffbf96190f</sys_scope>
         <sys_update_name>sys_dictionary_x_54049_physical_r_dm_folder_description</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-13 17:09:52</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-06-29 19:20:00</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

@@ -3,6 +3,5 @@
     <element label="Physical Records Table" max_length="40" name="x_54049_physical_r_physical_records_table" type="collection">
         <element label="Document Name" max_length="100" name="document_name" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
     </element>
 </database>

@@ -6,12 +6,12 @@
         <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
-        <calculation><![CDATA[(function calculatedFieldValue(current) {
+        <calculation>(function calculatedFieldValue(current) {
 
 	// Add your code here
 	return '';  // return the calculated value
 
-})(current);]]></calculation>
+})(current);</calculation>
         <choice/>
         <choice_field/>
         <choice_table/>
@@ -55,16 +55,16 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-06-13 16:48:08</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>e71b4b6bdb6213007c1372ffbf961914</sys_id>
+        <sys_id>8747c6304f0fd300f2a00195f110c773</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_54049_physical_r_dm_box</sys_name>
         <sys_package display_value="Physical Records" source="x_54049_physical_r">10178babdb2213007c1372ffbf96190f</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Physical Records">10178babdb2213007c1372ffbf96190f</sys_scope>
-        <sys_update_name>sys_dictionary_x_54049_physical_r_dm_box_null</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-13 16:48:08</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_54049_physical_r_dm_box_NULL</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-06-29 19:19:59</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

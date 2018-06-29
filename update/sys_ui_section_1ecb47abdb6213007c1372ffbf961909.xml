@@ -4,70 +4,70 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>folder_name</element>
             <position>0</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-13 17:10:55</sys_created_on>
-            <sys_id>9550d7efdb6213007c1372ffbf961995</sys_id>
+            <sys_created_by>hartmap</sys_created_by>
+            <sys_created_on>2018-06-29 19:33:37</sys_created_on>
+            <sys_id>af6a86b44f0fd300f2a00195f110c74e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_dm_folder" sys_domain="global" view="Default view">1ecb47abdb6213007c1372ffbf961909</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-13 17:10:55</sys_updated_on>
+            <sys_updated_by>hartmap</sys_updated_by>
+            <sys_updated_on>2018-06-29 19:33:37</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>box_number</element>
             <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-13 17:10:55</sys_created_on>
-            <sys_id>1950d7efdb6213007c1372ffbf961995</sys_id>
+            <sys_created_by>hartmap</sys_created_by>
+            <sys_created_on>2018-06-29 19:33:37</sys_created_on>
+            <sys_id>236a86b44f0fd300f2a00195f110c74f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_dm_folder" sys_domain="global" view="Default view">1ecb47abdb6213007c1372ffbf961909</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-13 17:10:55</sys_updated_on>
+            <sys_updated_by>hartmap</sys_updated_by>
+            <sys_updated_on>2018-06-29 19:33:37</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>box_number.location</element>
             <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-13 17:10:55</sys_created_on>
-            <sys_id>9950d7efdb6213007c1372ffbf961995</sys_id>
+            <sys_created_by>hartmap</sys_created_by>
+            <sys_created_on>2018-06-29 19:33:37</sys_created_on>
+            <sys_id>a36a86b44f0fd300f2a00195f110c74f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_dm_folder" sys_domain="global" view="Default view">1ecb47abdb6213007c1372ffbf961909</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-13 17:10:55</sys_updated_on>
+            <sys_updated_by>hartmap</sys_updated_by>
+            <sys_updated_on>2018-06-29 19:33:37</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
             <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-13 17:10:55</sys_created_on>
-            <sys_id>1d50d7efdb6213007c1372ffbf961995</sys_id>
+            <sys_created_by>hartmap</sys_created_by>
+            <sys_created_on>2018-06-29 19:33:37</sys_created_on>
+            <sys_id>276a86b44f0fd300f2a00195f110c74f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_dm_folder" sys_domain="global" view="Default view">1ecb47abdb6213007c1372ffbf961909</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-13 17:10:55</sys_updated_on>
+            <sys_updated_by>hartmap</sys_updated_by>
+            <sys_updated_on>2018-06-29 19:33:37</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>location</element>
+            <element>rec_retention_code</element>
             <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-06-13 17:10:55</sys_created_on>
-            <sys_id>9d50d7efdb6213007c1372ffbf961995</sys_id>
+            <sys_created_by>hartmap</sys_created_by>
+            <sys_created_on>2018-06-29 19:33:37</sys_created_on>
+            <sys_id>a76a86b44f0fd300f2a00195f110c74f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_dm_folder" sys_domain="global" view="Default view">1ecb47abdb6213007c1372ffbf961909</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-06-13 17:10:55</sys_updated_on>
+            <sys_updated_by>hartmap</sys_updated_by>
+            <sys_updated_on>2018-06-29 19:33:37</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -81,7 +81,6 @@
             <sys_created_on>2018-06-13 16:51:03</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
             <sys_id>1ecb47abdb6213007c1372ffbf961909</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_54049_physical_r_dm_folder</sys_name>

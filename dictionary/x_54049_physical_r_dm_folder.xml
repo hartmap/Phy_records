@@ -5,10 +5,14 @@
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="100" name="description" type="string"/>
         <element display="true" label="Folder Name" max_length="100" name="folder_name" type="string"/>
         <element label="Location" max_length="32" name="location" reference="x_54049_physical_r_dm_location" type="reference"/>
+        <element label="Rec Retention Code" max_length="32" name="rec_retention_code" reference="u_rrs" type="reference"/>
         <index name="index">
-            <element name="box_number"/>
+            <element name="rec_retention_code"/>
         </index>
         <index name="index2">
+            <element name="box_number"/>
+        </index>
+        <index name="index3">
             <element name="location"/>
         </index>
     </element>
