@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="DM Folder" max_length="40" name="x_54049_physical_r_dm_folder" type="collection">
+        <element label="Box Number" max_length="32" name="box_number" reference="x_54049_physical_r_dm_box" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="100" name="description" type="string"/>
+        <element display="true" label="Folder Name" max_length="100" name="folder_name" type="string"/>
+        <element label="Location" max_length="32" name="location" reference="x_54049_physical_r_dm_location" type="reference"/>
+        <index name="index">
+            <element name="box_number"/>
+        </index>
+        <index name="index2">
+            <element name="location"/>
+        </index>
+    </element>
+</database>

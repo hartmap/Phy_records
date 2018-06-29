@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="with_whom" label="With whom" language="en" table="x_54049_physical_r_dm_box">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>with_whom</element>
+            <help/>
+            <hint/>
+            <label>With whom</label>
+            <language>en</language>
+            <name>x_54049_physical_r_dm_box</name>
+            <plural>With whoms</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-13 17:25:49</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>27b3d3e3dba213007c1372ffbf96196b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>With whom</sys_name>
+            <sys_package display_value="Physical Records" source="x_54049_physical_r">10178babdb2213007c1372ffbf96190f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Physical Records">10178babdb2213007c1372ffbf96190f</sys_scope>
+            <sys_update_name>sys_documentation_x_54049_physical_r_dm_box_with_whom_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-13 17:25:49</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

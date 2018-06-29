@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="DM Box" max_length="40" name="x_54049_physical_r_dm_box" type="collection">
+        <element display="true" label="Box Name" max_length="100" name="box_name" type="string"/>
+        <element choice="3" default="Active" label="Disposition" max_length="40" name="disposition" read_only="true" type="string">
+            <choice>
+                <element label="Active" sequence="1" value="Active"/>
+                <element label="Inactive" sequence="2" value="Inactive"/>
+            </choice>
+        </element>
+        <element label="Location" max_length="32" name="location" reference="x_54049_physical_r_dm_location" type="reference"/>
+        <element label="With whom" max_length="32" name="with_whom" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="with_whom"/>
+        </index>
+        <index name="index2">
+            <element name="location"/>
+        </index>
+    </element>
+</database>
