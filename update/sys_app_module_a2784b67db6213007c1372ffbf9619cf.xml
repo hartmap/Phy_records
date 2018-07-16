@@ -15,7 +15,7 @@
         <mobile_title>DM Folders</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_54049_physical_r_dm_folder</name>
-        <order/>
+        <order>5000</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -28,7 +28,7 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>a2784b67db6213007c1372ffbf9619cf</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>DM Folders</sys_name>
         <sys_overrides/>
         <sys_package display_value="Physical Records" source="x_54049_physical_r">10178babdb2213007c1372ffbf96190f</sys_package>
@@ -36,8 +36,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Physical Records">10178babdb2213007c1372ffbf96190f</sys_scope>
         <sys_update_name>sys_app_module_a2784b67db6213007c1372ffbf9619cf</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-06-13 16:36:36</sys_updated_on>
+        <sys_updated_by>hartmap-admin</sys_updated_by>
+        <sys_updated_on>2018-07-16 18:03:54</sys_updated_on>
         <timeline_page/>
         <title>DM Folders</title>
         <uncancelable>false</uncancelable>
