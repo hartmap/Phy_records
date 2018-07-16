@@ -4,6 +4,7 @@
         <element label="Box Number" max_length="32" name="box_number" reference="x_54049_physical_r_dm_box" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Description" max_length="100" name="description" type="string"/>
         <element display="true" label="Folder Name" max_length="100" name="folder_name" type="string"/>
+        <element label="Legal Hold" max_length="32" name="legal_hold" type="boolean"/>
         <element label="Location" max_length="32" name="location" reference="x_54049_physical_r_dm_location" type="reference"/>
         <element label="Rec Retention Code" max_length="32" name="rec_retention_code" reference="u_rrs" type="reference"/>
         <index name="index">
@@ -14,6 +15,12 @@
         </index>
         <index name="index3">
             <element name="location"/>
+        </index>
+        <index name="index4">
+            <element name="folder_name"/>
+        </index>
+        <index name="index5">
+            <element name="legal_hold"/>
         </index>
     </element>
 </database>

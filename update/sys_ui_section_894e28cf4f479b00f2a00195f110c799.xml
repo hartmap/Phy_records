@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="894e28cf4f479b00f2a00195f110c799" sys_domain="global" table="x_54049_physical_r_physical_records_table" version="3" view="box">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>folder_name</element>
+            <position>0</position>
+            <sys_created_by>hartmap</sys_created_by>
+            <sys_created_on>2018-07-06 12:37:55</sys_created_on>
+            <sys_id>626ea8cf4f479b00f2a00195f110c766</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_physical_records_table" sys_domain="global" view="7c64a00b4f479b00f2a00195f110c721">894e28cf4f479b00f2a00195f110c799</sys_ui_section>
+            <sys_updated_by>hartmap</sys_updated_by>
+            <sys_updated_on>2018-07-06 12:37:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>core_number</element>
+            <position>1</position>
+            <sys_created_by>hartmap</sys_created_by>
+            <sys_created_on>2018-07-06 12:37:55</sys_created_on>
+            <sys_id>e26ea8cf4f479b00f2a00195f110c766</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_physical_records_table" sys_domain="global" view="7c64a00b4f479b00f2a00195f110c721">894e28cf4f479b00f2a00195f110c799</sys_ui_section>
+            <sys_updated_by>hartmap</sys_updated_by>
+            <sys_updated_on>2018-07-06 12:37:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>2</position>
+            <sys_created_by>hartmap</sys_created_by>
+            <sys_created_on>2018-07-06 12:37:55</sys_created_on>
+            <sys_id>666ea8cf4f479b00f2a00195f110c766</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_physical_records_table" sys_domain="global" view="7c64a00b4f479b00f2a00195f110c721">894e28cf4f479b00f2a00195f110c799</sys_ui_section>
+            <sys_updated_by>hartmap</sys_updated_by>
+            <sys_updated_on>2018-07-06 12:37:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>box_number</element>
+            <position>3</position>
+            <sys_created_by>hartmap</sys_created_by>
+            <sys_created_on>2018-07-06 12:37:55</sys_created_on>
+            <sys_id>e66ea8cf4f479b00f2a00195f110c766</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_physical_records_table" sys_domain="global" view="7c64a00b4f479b00f2a00195f110c721">894e28cf4f479b00f2a00195f110c799</sys_ui_section>
+            <sys_updated_by>hartmap</sys_updated_by>
+            <sys_updated_on>2018-07-06 12:37:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>legal_hold</element>
+            <position>4</position>
+            <sys_created_by>hartmap</sys_created_by>
+            <sys_created_on>2018-07-06 12:37:55</sys_created_on>
+            <sys_id>6a6ea8cf4f479b00f2a00195f110c766</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_physical_records_table" sys_domain="global" view="7c64a00b4f479b00f2a00195f110c721">894e28cf4f479b00f2a00195f110c799</sys_ui_section>
+            <sys_updated_by>hartmap</sys_updated_by>
+            <sys_updated_on>2018-07-06 12:37:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>insured</element>
+            <position>5</position>
+            <sys_created_by>hartmap</sys_created_by>
+            <sys_created_on>2018-07-06 12:37:55</sys_created_on>
+            <sys_id>ea6ea8cf4f479b00f2a00195f110c766</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_physical_records_table" sys_domain="global" view="7c64a00b4f479b00f2a00195f110c721">894e28cf4f479b00f2a00195f110c799</sys_ui_section>
+            <sys_updated_by>hartmap</sys_updated_by>
+            <sys_updated_on>2018-07-06 12:37:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_54049_physical_r_physical_records_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>hartmap</sys_created_by>
+            <sys_created_on>2018-07-06 12:37:17</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_id>894e28cf4f479b00f2a00195f110c799</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_54049_physical_r_physical_records_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Physical Records" source="x_54049_physical_r">10178babdb2213007c1372ffbf96190f</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Physical Records">10178babdb2213007c1372ffbf96190f</sys_scope>
+            <sys_update_name>sys_ui_section_894e28cf4f479b00f2a00195f110c799</sys_update_name>
+            <sys_updated_by>hartmap</sys_updated_by>
+            <sys_updated_on>2018-07-06 12:37:17</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Box" name="box">7c64a00b4f479b00f2a00195f110c721</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

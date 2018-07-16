@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Physical Records Table" max_length="40" name="x_54049_physical_r_physical_records_table" type="collection">
-        <element label="Document Name" max_length="100" name="document_name" type="string"/>
+    <element label="Physical Records Table" max_length="40" name="x_54049_physical_r_physical_records_table" sizeclass="31433" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Box Number" max_length="40" name="box_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Core Number" max_length="40" name="core_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Folder Name" max_length="40" name="folder_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Insured" max_length="100" name="insured" type="string"/>
+        <element label="Legal Hold" max_length="40" name="legal_hold" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Location" max_length="100" name="location" type="string"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
     </element>
 </database>
