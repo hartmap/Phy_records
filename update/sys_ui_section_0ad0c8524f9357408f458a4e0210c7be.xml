@@ -5,13 +5,13 @@
             <element>.begin_split</element>
             <position>0</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-16 18:15:09</sys_created_on>
-            <sys_id>088b959e4f971740f2a00195f110c7dc</sys_id>
+            <sys_created_on>2018-07-16 19:08:10</sys_created_on>
+            <sys_id>68a76d5a4fd71740f2a00195f110c714</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_iron_mountain" sys_domain="global" view="Default view">0ad0c8524f9357408f458a4e0210c7be</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-16 18:15:09</sys_updated_on>
+            <sys_updated_on>2018-07-16 19:08:10</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>u_cust_box__</element>
             <position>1</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-16 18:15:09</sys_created_on>
-            <sys_id>cc8b959e4f971740f2a00195f110c7dc</sys_id>
+            <sys_created_on>2018-07-16 19:08:10</sys_created_on>
+            <sys_id>e8a76d5a4fd71740f2a00195f110c714</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_iron_mountain" sys_domain="global" view="Default view">0ad0c8524f9357408f458a4e0210c7be</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-16 18:15:09</sys_updated_on>
+            <sys_updated_on>2018-07-16 19:08:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>u_division_name</element>
             <position>2</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-16 18:15:09</sys_created_on>
-            <sys_id>408b959e4f971740f2a00195f110c7dd</sys_id>
+            <sys_created_on>2018-07-16 19:08:10</sys_created_on>
+            <sys_id>6ca76d5a4fd71740f2a00195f110c714</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_iron_mountain" sys_domain="global" view="Default view">0ad0c8524f9357408f458a4e0210c7be</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-16 18:15:09</sys_updated_on>
+            <sys_updated_on>2018-07-16 19:08:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>.split</element>
             <position>3</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-16 18:15:09</sys_created_on>
-            <sys_id>c08b959e4f971740f2a00195f110c7dd</sys_id>
+            <sys_created_on>2018-07-16 19:08:10</sys_created_on>
+            <sys_id>eca76d5a4fd71740f2a00195f110c714</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_iron_mountain" sys_domain="global" view="Default view">0ad0c8524f9357408f458a4e0210c7be</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-16 18:15:09</sys_updated_on>
+            <sys_updated_on>2018-07-16 19:08:10</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>u_from_date</element>
             <position>4</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-16 18:15:09</sys_created_on>
-            <sys_id>448b959e4f971740f2a00195f110c7dd</sys_id>
+            <sys_created_on>2018-07-16 19:08:10</sys_created_on>
+            <sys_id>60a76d5a4fd71740f2a00195f110c715</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_iron_mountain" sys_domain="global" view="Default view">0ad0c8524f9357408f458a4e0210c7be</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-16 18:15:09</sys_updated_on>
+            <sys_updated_on>2018-07-16 19:08:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>.end_split</element>
             <position>5</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-16 18:15:09</sys_created_on>
-            <sys_id>c48b959e4f971740f2a00195f110c7dd</sys_id>
+            <sys_created_on>2018-07-16 19:08:10</sys_created_on>
+            <sys_id>e0a76d5a4fd71740f2a00195f110c715</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_iron_mountain" sys_domain="global" view="Default view">0ad0c8524f9357408f458a4e0210c7be</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-16 18:15:09</sys_updated_on>
+            <sys_updated_on>2018-07-16 19:08:10</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>u_major_description</element>
             <position>6</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-16 18:15:09</sys_created_on>
-            <sys_id>488b959e4f971740f2a00195f110c7dd</sys_id>
+            <sys_created_on>2018-07-16 19:08:10</sys_created_on>
+            <sys_id>64a76d5a4fd71740f2a00195f110c715</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_iron_mountain" sys_domain="global" view="Default view">0ad0c8524f9357408f458a4e0210c7be</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-16 18:15:09</sys_updated_on>
+            <sys_updated_on>2018-07-16 19:08:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>u_minor_description</element>
             <position>7</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-16 18:15:09</sys_created_on>
-            <sys_id>c88b959e4f971740f2a00195f110c7dd</sys_id>
+            <sys_created_on>2018-07-16 19:08:10</sys_created_on>
+            <sys_id>e4a76d5a4fd71740f2a00195f110c715</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_iron_mountain" sys_domain="global" view="Default view">0ad0c8524f9357408f458a4e0210c7be</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-16 18:15:09</sys_updated_on>
+            <sys_updated_on>2018-07-16 19:08:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>u_long_description</element>
             <position>8</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-16 18:15:09</sys_created_on>
-            <sys_id>4c8b959e4f971740f2a00195f110c7dd</sys_id>
+            <sys_created_on>2018-07-16 19:08:10</sys_created_on>
+            <sys_id>68a76d5a4fd71740f2a00195f110c715</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_iron_mountain" sys_domain="global" view="Default view">0ad0c8524f9357408f458a4e0210c7be</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-16 18:15:09</sys_updated_on>
+            <sys_updated_on>2018-07-16 19:08:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -131,13 +131,13 @@
             <element>.begin_split</element>
             <position>9</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-16 18:15:09</sys_created_on>
-            <sys_id>cc8b959e4f971740f2a00195f110c7dd</sys_id>
+            <sys_created_on>2018-07-16 19:08:10</sys_created_on>
+            <sys_id>e8a76d5a4fd71740f2a00195f110c715</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_iron_mountain" sys_domain="global" view="Default view">0ad0c8524f9357408f458a4e0210c7be</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-16 18:15:09</sys_updated_on>
+            <sys_updated_on>2018-07-16 19:08:10</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -145,13 +145,13 @@
             <element>u_manual_destruction</element>
             <position>10</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-16 18:15:09</sys_created_on>
-            <sys_id>408b959e4f971740f2a00195f110c7de</sys_id>
+            <sys_created_on>2018-07-16 19:08:10</sys_created_on>
+            <sys_id>6ca76d5a4fd71740f2a00195f110c715</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_iron_mountain" sys_domain="global" view="Default view">0ad0c8524f9357408f458a4e0210c7be</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-16 18:15:09</sys_updated_on>
+            <sys_updated_on>2018-07-16 19:08:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -159,13 +159,13 @@
             <element>u_record_code</element>
             <position>11</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-16 18:15:09</sys_created_on>
-            <sys_id>c08b959e4f971740f2a00195f110c7de</sys_id>
+            <sys_created_on>2018-07-16 19:08:10</sys_created_on>
+            <sys_id>eca76d5a4fd71740f2a00195f110c715</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_iron_mountain" sys_domain="global" view="Default view">0ad0c8524f9357408f458a4e0210c7be</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-16 18:15:09</sys_updated_on>
+            <sys_updated_on>2018-07-16 19:08:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -173,27 +173,41 @@
             <element>u_destruction_date</element>
             <position>12</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-16 18:15:09</sys_created_on>
-            <sys_id>448b959e4f971740f2a00195f110c7de</sys_id>
+            <sys_created_on>2018-07-16 19:08:10</sys_created_on>
+            <sys_id>60a76d5a4fd71740f2a00195f110c716</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_iron_mountain" sys_domain="global" view="Default view">0ad0c8524f9357408f458a4e0210c7be</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-16 18:15:09</sys_updated_on>
+            <sys_updated_on>2018-07-16 19:08:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_status</element>
+            <position>13</position>
+            <sys_created_by>hartmap</sys_created_by>
+            <sys_created_on>2018-07-16 19:08:10</sys_created_on>
+            <sys_id>e0a76d5a4fd71740f2a00195f110c716</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_iron_mountain" sys_domain="global" view="Default view">0ad0c8524f9357408f458a4e0210c7be</sys_ui_section>
+            <sys_updated_by>hartmap</sys_updated_by>
+            <sys_updated_on>2018-07-16 19:08:10</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>13</position>
+            <position>14</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-16 18:15:09</sys_created_on>
-            <sys_id>c48b959e4f971740f2a00195f110c7de</sys_id>
+            <sys_created_on>2018-07-16 19:08:10</sys_created_on>
+            <sys_id>64a76d5a4fd71740f2a00195f110c716</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_iron_mountain" sys_domain="global" view="Default view">0ad0c8524f9357408f458a4e0210c7be</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-16 18:15:09</sys_updated_on>
+            <sys_updated_on>2018-07-16 19:08:10</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
