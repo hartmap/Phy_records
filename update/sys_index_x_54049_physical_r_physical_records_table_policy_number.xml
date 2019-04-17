@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>policy_number</col_name_string>
+        <index_col_name element="policy_number" name="x_54049_physical_r_physical_records_table">f7a0e3ab135437c0b9145cc12244b0da</index_col_name>
+        <logical_table_name>x_54049_physical_r_physical_records_table</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2019-04-09 11:46:54</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>fb134300137cb30436b155912244b025</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_54049_physical_r_physical_records_table</sys_name>
+        <sys_package display_value="Physical Records" source="x_54049_physical_r">10178babdb2213007c1372ffbf96190f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Physical Records">10178babdb2213007c1372ffbf96190f</sys_scope>
+        <sys_update_name>sys_index_x_54049_physical_r_physical_records_table_policy_number</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-04-09 11:46:54</sys_updated_on>
+        <table display_value="Physical Records Table" name="x_54049_physical_r_physical_records_table">50178babdb2213007c1372ffbf96190f</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

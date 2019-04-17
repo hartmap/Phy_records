@@ -3,7 +3,7 @@
     <sys_ui_related sys_domain="global" table="x_54049_physical_r_iron_mountain" version="2" view="">
         <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
             <filter/>
-            <list_id display_value="Iron Mountain - Default view" name="x_54049_physical_r_iron_mountain" related_list="NULL" sys_domain="global" view="Default view">655804164f9357408f458a4e0210c7ea</list_id>
+            <list_id display_value="Iron Mountain Import - Default view" name="x_54049_physical_r_iron_mountain" related_list="NULL" sys_domain="global" view="Default view">655804164f9357408f458a4e0210c7ea</list_id>
             <order_by/>
             <position>0</position>
             <related_list>REL:9d86441a4f9357408f458a4e0210c70f</related_list>
@@ -16,7 +16,7 @@
             <sys_updated_on>2018-07-16 12:11:49</sys_updated_on>
         </sys_ui_related_list_entry>
         <sys_ui_related_list action="INSERT_OR_UPDATE">
-            <calculated_name>Iron Mountain - Default view</calculated_name>
+            <calculated_name>Iron Mountain Import - Default view</calculated_name>
             <filter/>
             <name>x_54049_physical_r_iron_mountain</name>
             <order_by/>

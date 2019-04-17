@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="IM Perm out" max_length="40" name="x_54049_physical_r_im_perm_out" type="collection">
+        <element attributes="import_attribute_name=Alpha From,edge_encryption_enabled=true" label="Alpha From" max_length="40" name="u_alpha_from" type="string"/>
+        <element attributes="import_attribute_name=Alpha To,edge_encryption_enabled=true" label="Alpha To" max_length="40" name="u_alpha_to" type="string"/>
+        <element attributes="import_attribute_name=Box Type,edge_encryption_enabled=true" label="Box Type" max_length="40" name="u_box_type" type="string"/>
+        <element attributes="import_attribute_name=Create Date" label="Create Date" max_length="40" name="u_create_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Customer Box Number,edge_encryption_enabled=true" label="Customer Box Number" max_length="40" name="u_customer_box_number" type="string"/>
+        <element attributes="import_attribute_name=Customer ID,edge_encryption_enabled=true" label="Customer ID" max_length="40" name="u_customer_id" type="string"/>
+        <element attributes="import_attribute_name=Customer Name,edge_encryption_enabled=true" label="Customer Name" max_length="40" name="u_customer_name" type="string"/>
+        <element attributes="import_attribute_name=Department ID,edge_encryption_enabled=true" label="Department ID" max_length="40" name="u_department_id" type="string"/>
+        <element attributes="import_attribute_name=Department Name,edge_encryption_enabled=true" label="Department Name" max_length="40" name="u_department_name" type="string"/>
+        <element attributes="import_attribute_name=Destruction Eligibility Date" label="Destruction Eligibility Date" max_length="40" name="u_destruction_eligibility_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Destruction Indicator,edge_encryption_enabled=true" label="Destruction Indicator" max_length="40" name="u_destruction_indicator" type="string"/>
+        <element attributes="import_attribute_name=Division ID" label="Division ID" max_length="40" name="u_division_id" type="integer"/>
+        <element attributes="import_attribute_name=Division Name,edge_encryption_enabled=true" label="Division Name" max_length="40" name="u_division_name" type="string"/>
+        <element attributes="import_attribute_name=Event Date,edge_encryption_enabled=true" label="Event Date" max_length="40" name="u_event_date" type="string"/>
+        <element attributes="import_attribute_name=From Date" label="From Date" max_length="40" name="u_from_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Hold Code,edge_encryption_enabled=true" label="Hold Code" max_length="40" name="u_hold_code" type="string"/>
+        <element attributes="import_attribute_name=Item Type,edge_encryption_enabled=true" label="Item Type" max_length="40" name="u_item_type" type="string"/>
+        <element attributes="import_attribute_name=Long Description,edge_encryption_enabled=true" label="Long Description" max_length="945" name="u_long_description" type="string"/>
+        <element attributes="import_attribute_name=Major Description,edge_encryption_enabled=true" label="Major Description" max_length="40" name="u_major_description" type="string"/>
+        <element attributes="import_attribute_name=Minor Description,edge_encryption_enabled=true" label="Minor Description" max_length="40" name="u_minor_description" type="string"/>
+        <element attributes="import_attribute_name=Receipt Date" label="Receipt Date" max_length="40" name="u_receipt_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Record Code,edge_encryption_enabled=true" label="Record Code" max_length="40" name="u_record_code" type="string"/>
+        <element attributes="import_attribute_name=Record Code Description,edge_encryption_enabled=true" label="Record Code Description" max_length="40" name="u_record_code_description" type="string"/>
+        <element attributes="import_attribute_name=Reference 1,edge_encryption_enabled=true" label="Reference 1" max_length="40" name="u_reference_1" type="string"/>
+        <element attributes="import_attribute_name=Reference 2,edge_encryption_enabled=true" label="Reference 2" max_length="40" name="u_reference_2" type="string"/>
+        <element attributes="import_attribute_name=SKP Barcode,edge_encryption_enabled=true" label="SKP Barcode" max_length="40" name="u_skp_barcode" type="string"/>
+        <element attributes="import_attribute_name=Status,edge_encryption_enabled=true" label="Status" max_length="40" name="u_status" type="string"/>
+        <element attributes="import_attribute_name=To Date" label="To Date" max_length="40" name="u_to_date" type="glide_date"/>
+        <element attributes="import_attribute_name=Transmittal Received,edge_encryption_enabled=true" label="Transmittal Received" max_length="40" name="u_transmittal_received" type="string"/>
+        <element attributes="import_attribute_name=Valid Department,edge_encryption_enabled=true" label="Valid Department" max_length="40" name="u_valid_department" type="string"/>
+    </element>
+</database>

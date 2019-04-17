@@ -2,44 +2,44 @@
 <record_update>
     <sys_ui_section caption="" section_id="2c9fd4034f479b00f2a00195f110c730" sys_domain="global" table="x_54049_physical_r_physical_records_table" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
+            <element>policy_number</element>
             <position>0</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-06 11:39:19</sys_created_on>
-            <sys_id>c001ac474f479b00f2a00195f110c71e</sys_id>
+            <sys_created_on>2019-04-17 14:56:05</sys_created_on>
+            <sys_id>c92b783a13bc3f0436b155912244b01a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_physical_records_table" sys_domain="global" view="Default view">2c9fd4034f479b00f2a00195f110c730</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-06 11:39:19</sys_updated_on>
+            <sys_updated_on>2019-04-17 14:56:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>folder_name</element>
+            <element>effective_date</element>
             <position>1</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-06 11:39:19</sys_created_on>
-            <sys_id>4401ac474f479b00f2a00195f110c71e</sys_id>
+            <sys_created_on>2019-04-17 14:56:05</sys_created_on>
+            <sys_id>4d2b783a13bc3f0436b155912244b01a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_physical_records_table" sys_domain="global" view="Default view">2c9fd4034f479b00f2a00195f110c730</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-06 11:39:19</sys_updated_on>
+            <sys_updated_on>2019-04-17 14:56:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>core_number</element>
+            <element>expiration_date</element>
             <position>2</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-06 11:39:19</sys_created_on>
-            <sys_id>c401ac474f479b00f2a00195f110c71e</sys_id>
+            <sys_created_on>2019-04-17 14:56:05</sys_created_on>
+            <sys_id>cd2b783a13bc3f0436b155912244b01a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_physical_records_table" sys_domain="global" view="Default view">2c9fd4034f479b00f2a00195f110c730</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-06 11:39:19</sys_updated_on>
+            <sys_updated_on>2019-04-17 14:56:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,69 +47,139 @@
             <element>folder_name</element>
             <position>3</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-06 11:39:19</sys_created_on>
-            <sys_id>4801ac474f479b00f2a00195f110c71e</sys_id>
+            <sys_created_on>2019-04-17 14:56:05</sys_created_on>
+            <sys_id>412b783a13bc3f0436b155912244b01b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_physical_records_table" sys_domain="global" view="Default view">2c9fd4034f479b00f2a00195f110c730</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-06 11:39:19</sys_updated_on>
+            <sys_updated_on>2019-04-17 14:56:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>core_number</element>
+            <position>4</position>
+            <sys_created_by>hartmap</sys_created_by>
+            <sys_created_on>2019-04-17 14:56:05</sys_created_on>
+            <sys_id>c12b783a13bc3f0436b155912244b01b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_physical_records_table" sys_domain="global" view="Default view">2c9fd4034f479b00f2a00195f110c730</sys_ui_section>
+            <sys_updated_by>hartmap</sys_updated_by>
+            <sys_updated_on>2019-04-17 14:56:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>location</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-06 11:39:19</sys_created_on>
-            <sys_id>c801ac474f479b00f2a00195f110c71e</sys_id>
+            <sys_created_on>2019-04-17 14:56:05</sys_created_on>
+            <sys_id>452b783a13bc3f0436b155912244b01b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_physical_records_table" sys_domain="global" view="Default view">2c9fd4034f479b00f2a00195f110c730</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-06 11:39:19</sys_updated_on>
+            <sys_updated_on>2019-04-17 14:56:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>checked_out_to</element>
+            <position>6</position>
+            <sys_created_by>hartmap</sys_created_by>
+            <sys_created_on>2019-04-17 14:56:05</sys_created_on>
+            <sys_id>c52b783a13bc3f0436b155912244b01b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_physical_records_table" sys_domain="global" view="Default view">2c9fd4034f479b00f2a00195f110c730</sys_ui_section>
+            <sys_updated_by>hartmap</sys_updated_by>
+            <sys_updated_on>2019-04-17 14:56:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>box_number</element>
-            <position>5</position>
+            <position>7</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-06 11:39:19</sys_created_on>
-            <sys_id>4c01ac474f479b00f2a00195f110c71e</sys_id>
+            <sys_created_on>2019-04-17 14:56:05</sys_created_on>
+            <sys_id>492b783a13bc3f0436b155912244b01b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_physical_records_table" sys_domain="global" view="Default view">2c9fd4034f479b00f2a00195f110c730</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-06 11:39:19</sys_updated_on>
+            <sys_updated_on>2019-04-17 14:56:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>legal_hold</element>
-            <position>6</position>
+            <position>8</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-06 11:39:19</sys_created_on>
-            <sys_id>cc01ac474f479b00f2a00195f110c71e</sys_id>
+            <sys_created_on>2019-04-17 14:56:05</sys_created_on>
+            <sys_id>c92b783a13bc3f0436b155912244b01b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_physical_records_table" sys_domain="global" view="Default view">2c9fd4034f479b00f2a00195f110c730</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-06 11:39:19</sys_updated_on>
+            <sys_updated_on>2019-04-17 14:56:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>insured</element>
-            <position>7</position>
+            <position>9</position>
             <sys_created_by>hartmap</sys_created_by>
-            <sys_created_on>2018-07-06 11:39:19</sys_created_on>
-            <sys_id>4001ac474f479b00f2a00195f110c71f</sys_id>
+            <sys_created_on>2019-04-17 14:56:05</sys_created_on>
+            <sys_id>4d2b783a13bc3f0436b155912244b01b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_physical_records_table" sys_domain="global" view="Default view">2c9fd4034f479b00f2a00195f110c730</sys_ui_section>
             <sys_updated_by>hartmap</sys_updated_by>
-            <sys_updated_on>2018-07-06 11:39:19</sys_updated_on>
+            <sys_updated_on>2019-04-17 14:56:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>open_claim</element>
+            <position>10</position>
+            <sys_created_by>hartmap</sys_created_by>
+            <sys_created_on>2019-04-17 14:56:05</sys_created_on>
+            <sys_id>cd2b783a13bc3f0436b155912244b01b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_physical_records_table" sys_domain="global" view="Default view">2c9fd4034f479b00f2a00195f110c730</sys_ui_section>
+            <sys_updated_by>hartmap</sys_updated_by>
+            <sys_updated_on>2019-04-17 14:56:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_checked_out</element>
+            <position>11</position>
+            <sys_created_by>hartmap</sys_created_by>
+            <sys_created_on>2019-04-17 14:56:05</sys_created_on>
+            <sys_id>412b783a13bc3f0436b155912244b01c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_physical_records_table" sys_domain="global" view="Default view">2c9fd4034f479b00f2a00195f110c730</sys_ui_section>
+            <sys_updated_by>hartmap</sys_updated_by>
+            <sys_updated_on>2019-04-17 14:56:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>destroy_date</element>
+            <position>12</position>
+            <sys_created_by>hartmap</sys_created_by>
+            <sys_created_on>2019-04-17 14:56:05</sys_created_on>
+            <sys_id>c12b783a13bc3f0436b155912244b01c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_54049_physical_r_physical_records_table" sys_domain="global" view="Default view">2c9fd4034f479b00f2a00195f110c730</sys_ui_section>
+            <sys_updated_by>hartmap</sys_updated_by>
+            <sys_updated_on>2019-04-17 14:56:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

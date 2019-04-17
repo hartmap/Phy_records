@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" label="IM Box Table" max_length="40" name="x_54049_physical_r_im_box_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Alpha From" max_length="40" name="alpha_from" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Alpha To" max_length="40" name="alpha_to" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Box #" max_length="40" name="box" type="string"/>
+        <element label="Box Type" max_length="15" name="box_type" type="decimal"/>
+        <element label="Cost Center" max_length="32" name="cost_center" reference="cmn_cost_center" type="reference"/>
+        <element label="Create Date" max_length="40" name="create_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer Box Number" max_length="40" name="customer_box_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Customer ID" max_length="40" name="customer_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Department Name" max_length="100" name="department_name" type="string"/>
+        <element label="Destruction Date" max_length="40" name="destruction_date" type="glide_date"/>
+        <element label="Destruction Eligibility Date" max_length="40" name="destruction_eligibility_date" type="glide_date"/>
+        <element label="Division" max_length="32" name="division" reference="cmn_department" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Division Name" max_length="40" name="division_name" type="string"/>
+        <element label="Event Date" max_length="40" name="event_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="IM Bar Code" max_length="40" name="im_bar_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Item Type" max_length="40" name="item_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Long Description" max_length="1000" name="long_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Major Description" max_length="100" name="major_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Manual Destruction" max_length="40" name="manual_destruction" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Media Type" max_length="40" name="media_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Minor Description" max_length="100" name="minor_description" type="string"/>
+        <element label="Receipt Date" max_length="40" name="receipt_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Record Code" max_length="40" name="record_code" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Record Code Description" max_length="100" name="record_code_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Reference 1" max_length="100" name="reference_1" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Reference 2" max_length="100" name="reference_2" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="SKP Box #" max_length="40" name="skp_box" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Status" max_length="100" name="status" type="string"/>
+        <element label="To Date" max_length="40" name="to_date" type="glide_date"/>
+        <element label="Transmittal Received" max_length="40" name="transmittal_received" type="boolean"/>
+        <index name="index">
+            <element name="division"/>
+        </index>
+        <index name="index2">
+            <element name="cost_center"/>
+        </index>
+    </element>
+</database>

@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Physical Records Table" max_length="40" name="x_54049_physical_r_physical_records_table" sizeclass="31433" type="collection">
+    <element audit="true" label="Physical Records Table" max_length="40" name="x_54049_physical_r_physical_records_table" sizeclass="31491" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Box Number" max_length="40" name="box_number" type="string"/>
+        <element label="Checked out to" max_length="32" name="checked_out_to" reference="sys_user" reference_qual="active=true^departmentISNOTEMPTY^companyISNOTEMPTY^EQ" reference_qual_condition="active=true^departmentISNOTEMPTY^companyISNOTEMPTY^EQ" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Core Number" max_length="40" name="core_number" type="string"/>
+        <element label="Date Checked Out" max_length="40" name="date_checked_out" type="glide_date_time"/>
+        <element label="Destroy Date" max_length="40" name="destroy_date" type="glide_date"/>
+        <element label="Effective Date" max_length="40" name="effective_date" type="glide_date"/>
+        <element label="Expiration Date" max_length="40" name="expiration_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="Folder Name" max_length="40" name="folder_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Insured" max_length="100" name="insured" type="string"/>
         <element label="Legal Hold" max_length="40" name="legal_hold" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Legal Hold Flag" max_length="40" name="legal_hold_flag" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Location" max_length="100" name="location" type="string"/>
-        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;if (current.open_claim_flag ==  'y') { current.open_claim =  '1';}&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Open Claim" max_length="40" name="open_claim" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="Open Claim Flag" max_length="40" name="open_claim_flag" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Policy Number" max_length="40" name="policy_number" type="string"/>
+        <index name="index">
+            <element name="policy_number"/>
+        </index>
+        <index name="index2">
+            <element name="checked_out_to"/>
+        </index>
     </element>
 </database>

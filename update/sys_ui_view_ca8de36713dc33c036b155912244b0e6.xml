@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>sys_popup,Box_to_Files</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>hartmap</sys_created_by>
+        <sys_created_on>2019-03-26 15:19:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>ca8de36713dc33c036b155912244b0e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sys_popup,box_to_files</sys_name>
+        <sys_package display_value="Physical Records" source="x_54049_physical_r">10178babdb2213007c1372ffbf96190f</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Physical Records">10178babdb2213007c1372ffbf96190f</sys_scope>
+        <sys_update_name>sys_ui_view_ca8de36713dc33c036b155912244b0e6</sys_update_name>
+        <sys_updated_by>hartmap</sys_updated_by>
+        <sys_updated_on>2019-03-26 15:19:32</sys_updated_on>
+        <title>Sys_popup,box_to_files</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

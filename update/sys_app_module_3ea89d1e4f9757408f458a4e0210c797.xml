@@ -17,7 +17,7 @@
         <name/>
         <order>100</order>
         <override_menu_roles>false</override_menu_roles>
-        <query>/x_54049_physical_r_iron_mountain_list.do?sysparm_query=</query>
+        <query>/x_54049_physical_r_im_box_table_list.do?sysparm_query=</query>
         <report/>
         <roles/>
         <survey/>
@@ -28,7 +28,7 @@
         <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>3ea89d1e4f9757408f458a4e0210c797</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Physical - Iron Mountain Box list</sys_name>
         <sys_overrides/>
         <sys_package display_value="Physical Records" source="x_54049_physical_r">10178babdb2213007c1372ffbf96190f</sys_package>
@@ -36,8 +36,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Physical Records">10178babdb2213007c1372ffbf96190f</sys_scope>
         <sys_update_name>sys_app_module_3ea89d1e4f9757408f458a4e0210c797</sys_update_name>
-        <sys_updated_by>hartmap-admin</sys_updated_by>
-        <sys_updated_on>2018-07-16 18:05:29</sys_updated_on>
+        <sys_updated_by>hartmap</sys_updated_by>
+        <sys_updated_on>2019-03-27 13:58:28</sys_updated_on>
         <timeline_page/>
         <title>Physical - Iron Mountain Box list</title>
         <uncancelable>false</uncancelable>

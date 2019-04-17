@@ -2,7 +2,7 @@
 <record_update table="sys_embedded_help_role">
     <sys_embedded_help_role action="INSERT_OR_UPDATE">
         <order>10</order>
-        <role display_value="announcement_admin" name="announcement_admin">eec503f5e7d3320075c2a117c2f6a92e</role>
+        <role display_value="">eec503f5e7d3320075c2a117c2f6a92e</role>
         <sys_class_name>sys_embedded_help_role</sys_class_name>
         <sys_created_by>system</sys_created_by>
         <sys_created_on>2018-07-06 16:36:59</sys_created_on>

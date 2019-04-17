@@ -4,7 +4,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>folder_name</element>
-            <list_id display_value="x_54049_physical_r_physical_records_table" element="NULL" name="x_54049_physical_r_physical_records_table" parent="NULL" relationship="NULL" sys_domain="global" view="c3646c0b4f479b00f2a00195f110c713">19b4240b4f479b00f2a00195f110c7be</list_id>
+            <list_id display_value="x_54049_physical_r_physical_records_table" element="NULL" name="x_54049_physical_r_physical_records_table" parent="NULL" relationship="NULL" sys_domain="global" view="af4a2d8f130f9780951d7b304244b049">19b4240b4f479b00f2a00195f110c7be</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -19,7 +19,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>insured</element>
-            <list_id display_value="x_54049_physical_r_physical_records_table" element="NULL" name="x_54049_physical_r_physical_records_table" parent="NULL" relationship="NULL" sys_domain="global" view="c3646c0b4f479b00f2a00195f110c713">19b4240b4f479b00f2a00195f110c7be</list_id>
+            <list_id display_value="x_54049_physical_r_physical_records_table" element="NULL" name="x_54049_physical_r_physical_records_table" parent="NULL" relationship="NULL" sys_domain="global" view="af4a2d8f130f9780951d7b304244b049">19b4240b4f479b00f2a00195f110c7be</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -34,7 +34,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>core_number</element>
-            <list_id display_value="x_54049_physical_r_physical_records_table" element="NULL" name="x_54049_physical_r_physical_records_table" parent="NULL" relationship="NULL" sys_domain="global" view="c3646c0b4f479b00f2a00195f110c713">19b4240b4f479b00f2a00195f110c7be</list_id>
+            <list_id display_value="x_54049_physical_r_physical_records_table" element="NULL" name="x_54049_physical_r_physical_records_table" parent="NULL" relationship="NULL" sys_domain="global" view="af4a2d8f130f9780951d7b304244b049">19b4240b4f479b00f2a00195f110c7be</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -49,7 +49,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>location</element>
-            <list_id display_value="x_54049_physical_r_physical_records_table" element="NULL" name="x_54049_physical_r_physical_records_table" parent="NULL" relationship="NULL" sys_domain="global" view="c3646c0b4f479b00f2a00195f110c713">19b4240b4f479b00f2a00195f110c7be</list_id>
+            <list_id display_value="x_54049_physical_r_physical_records_table" element="NULL" name="x_54049_physical_r_physical_records_table" parent="NULL" relationship="NULL" sys_domain="global" view="af4a2d8f130f9780951d7b304244b049">19b4240b4f479b00f2a00195f110c7be</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
@@ -64,7 +64,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>box_number</element>
-            <list_id display_value="x_54049_physical_r_physical_records_table" element="NULL" name="x_54049_physical_r_physical_records_table" parent="NULL" relationship="NULL" sys_domain="global" view="c3646c0b4f479b00f2a00195f110c713">19b4240b4f479b00f2a00195f110c7be</list_id>
+            <list_id display_value="x_54049_physical_r_physical_records_table" element="NULL" name="x_54049_physical_r_physical_records_table" parent="NULL" relationship="NULL" sys_domain="global" view="af4a2d8f130f9780951d7b304244b049">19b4240b4f479b00f2a00195f110c7be</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
@@ -79,7 +79,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>legal_hold</element>
-            <list_id display_value="x_54049_physical_r_physical_records_table" element="NULL" name="x_54049_physical_r_physical_records_table" parent="NULL" relationship="NULL" sys_domain="global" view="c3646c0b4f479b00f2a00195f110c713">19b4240b4f479b00f2a00195f110c7be</list_id>
+            <list_id display_value="x_54049_physical_r_physical_records_table" element="NULL" name="x_54049_physical_r_physical_records_table" parent="NULL" relationship="NULL" sys_domain="global" view="af4a2d8f130f9780951d7b304244b049">19b4240b4f479b00f2a00195f110c7be</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
@@ -117,7 +117,7 @@
             <sys_updated_by>hartmap</sys_updated_by>
             <sys_updated_on>2018-07-06 11:55:30</sys_updated_on>
             <sys_user/>
-            <view display_value="Folder" name="folder">c3646c0b4f479b00f2a00195f110c713</view>
+            <view display_value="Folder" name="folder">af4a2d8f130f9780951d7b304244b049</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>
